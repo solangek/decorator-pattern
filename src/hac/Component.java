@@ -1,5 +1,5 @@
 package hac;
 
 public interface Component {
-    void operation();
+    String operation();
 }
